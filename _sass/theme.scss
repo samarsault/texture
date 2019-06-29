@@ -33,6 +33,7 @@ a {
 	}
 }
 
+
 h1, h2, h3 {
 	line-height: 1.2em;
 }
@@ -164,6 +165,12 @@ header {
 	align-items: center;
 	a:hover {
 		border-bottom: none;
+	}
+}
+
+.post-container {
+	img {
+		margin: 20px 0;
 	}
 }
 
