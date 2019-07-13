@@ -47,6 +47,11 @@ h2 {
 	@include fluidType(28px, 32px);
 }
 
+h4 {
+	font-weight: normal;
+	@include fluidType(18px, 20px);
+}
+
 header {
 	// background-size: cover;
 	padding: 120px 0;
@@ -134,6 +139,14 @@ header {
 		color: $gray;
 		border-bottom: 0;
 	}
+}
+
+.post-description {
+	font-weight: normal;
+	color: #ddd;
+
+	margin-top:.5em;
+	margin-bottom: 1.3em;
 }
 
 .post-date {

@@ -52,7 +52,7 @@ texture:
 
 **Styling**
 
-Multiple header styles are supported using the "style" property under texture in `_config.yml`. 
+Multiple header styles are supported using the "style" property under texture in `_config.yml`.
 
 ```yaml
 texture:
@@ -63,6 +63,15 @@ For example, the blue style looks like this:
 
 ![texture theme blue](/screen2.png)
 
+
+**Texture Picker**
+
+You can toggle the texture picker to show/experiment various textures on your site using the showPicker variable. Remember to make it `false` for production.
+
+```yaml
+texture:
+  showPicker: [false|true] # show the texture selector(development purposes)
+```
 
 **Comments (Disqus)**
 

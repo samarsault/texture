@@ -3,6 +3,39 @@
 
 @import "theme";
 
+ {%- if site.texture.showPicker -%}
+#texture-picker {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 8px 12px;
+    p {
+        margin: 0;
+        @include fluidType(14px, 15px);
+    }
+    .texture-colors {
+        display: flex;
+        > div {
+            width: 30px;
+            height: 30px;
+            margin: 4px;
+            border: 1px solid #eee;
+            border-radius: 4px;
+            &:hover {
+                cursor: pointer;
+            }
+        }
+    }
+    #red {background-color: orangered;}
+    #blue { background-color: lightblue; }
+    #black { background-color: #111; }
+    #purple { background-color: rebeccapurple; }
+    #green { background-color: mediumseagreen; }
+}
+{%- endif -%}
 // Textures
 .texture-black {
     background-image: url('{{ site.baseurl }}/assets/textures/black.jpg');

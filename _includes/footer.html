@@ -8,3 +8,30 @@
 	gtag('config', '{{ site.texture.analytics_id }}');
 </script>
 {%- endif -%}
+
+{%- if site.texture.showPicker -%}
+<div id="texture-picker">
+	<p>Select Texture</p>
+	<div class="texture-colors">
+		<div id="black"></div>
+		<div id="blue"></div>	
+		<div id="red"></div>	
+		<div id="purple"></div>		
+		<div id="green"></div>
+	</div>
+</div>
+<script>
+window.onload = function() {
+	// Handle Texture Picker
+	const $picker = document.querySelector('#texture-picker');
+	const $header = document.querySelector('header');
+	
+	$picker.onclick = function(e) {
+		const textureName = e.target.id;
+		if (textureName && textureName != 'texture-picker')
+			$header.setAttribute('class', `texture-${textureName}`);
+	}
+}
+
+</script>
+{%- endif -%}
