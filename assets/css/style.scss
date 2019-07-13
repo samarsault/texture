@@ -16,6 +16,16 @@
         margin: 0;
         @include fluidType(14px, 15px);
     }
+    .info {
+        background-color: rgba(#ffd68d, 0.7);
+        border-radius: 4px;
+        font-size: 13px;
+        // color: #999;
+        padding: 10px;
+        margin-top: 10px;
+        max-width: 200px;
+        line-height: 1.3em;
+    }
     .texture-colors {
         display: flex;
         > div {

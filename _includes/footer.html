@@ -19,19 +19,8 @@
 		<div id="purple"></div>		
 		<div id="green"></div>
 	</div>
+	<p class="info">You can use the <b>showPicker</b> property in _config.yml to hide this picker permanently.</p>
+	<p class="info">You can use the <b>texture</b> property in _config.yml to apply a texture permanently.</p>
 </div>
-<script>
-window.onload = function() {
-	// Handle Texture Picker
-	const $picker = document.querySelector('#texture-picker');
-	const $header = document.querySelector('header');
-	
-	$picker.onclick = function(e) {
-		const textureName = e.target.id;
-		if (textureName && textureName != 'texture-picker')
-			$header.setAttribute('class', `texture-${textureName}`);
-	}
-}
-
-</script>
+<script src="{{ "/assets/js/picker.js" | relative_url }}"></script>
 {%- endif -%}
