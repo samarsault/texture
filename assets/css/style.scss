@@ -6,8 +6,13 @@
  {%- if site.texture.showPicker -%}
 #texture-picker {
     position: fixed;
-    top: 20px;
-    right: 20px;
+    {%- if site.texture.showNav -%}
+        top: 100px;
+        right: 55px;
+    {%- else -%}
+        top: 20px;
+        right: 20px;
+    {%- endif -%}
     background-color: #fff;
     border: 1px solid #ccc;
     border-radius: 5px;
