@@ -13,6 +13,8 @@ Add this line to your site's `_config.yml`:
 ```yaml
 remote_theme: thelehhman/texture
 ```
+
+**NOTE: If you are forking this repo, remove `base_url: /texture` in the `_config.yml` which is required to load the required website assets**
 ## Installation
 
 Add this line to your Jekyll site's `Gemfile`:
