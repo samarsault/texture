@@ -108,12 +108,18 @@ header {
 		div.highlighter-rouge {
 			right: 15px;
 		}
+		div.highlight {
+			padding: 30px 15px;
+		}
 	}
 
 	@media screen and (max-width: $tabWidth) and (min-width: $mobileWidth){
 		margin:0 40px;	
 		div.highlighter-rouge {
 			right: 40px;
+		}
+		div.highlight {
+			padding: 30px 40px;
 		}
 	}
 
@@ -122,12 +128,18 @@ header {
 		div.highlighter-rouge {
 			right: 80px;
 		}
+		div.highlight {
+			padding: 30px 80px;
+		}
 	}
 
 	@media screen and (min-width: $desktopWidth) and (max-width: 1280px) {
 		margin:0 100px;
 		div.highlighter-rouge {
 			right: 100px;
+		}
+		div.highlight {
+			padding: 30px 100px;
 		}
 	}
 }
