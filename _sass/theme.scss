@@ -103,10 +103,6 @@ header {
 		right: 150px;
 	}
 
-	@media screen and (min-width: 1600px){
-		max-width: 1200px;
-	}
-
 	@media screen and  (max-width: $mobileWidth) {
 		margin:0 15px; 
 		div.highlighter-rouge {
