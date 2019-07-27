@@ -10,6 +10,7 @@ $bigScreenW: 1600px;
 $leftWidth: 220px;
 
 $gray: #999;
+$lightGray: #eee;
 
 *,*:before,*:after {
 	box-sizing: border-box;
@@ -87,6 +88,10 @@ header {
 	}
 }
 
+.clearfix {
+	clear: both;
+}
+
 //
 // Basic Container Class
 //
@@ -156,14 +161,31 @@ header {
 	}
 }
 
-.posts {
+.post-tags {
 	list-style-type: none;
 	padding: 0;
 	li {
+		float: left;
+		padding: 10px 20px;
+		background-color: $lightGray;
+		color: #000;
+		margin: 5px;
+		border-radius: 2px;
+		@include fluidType(15px, 17px);
+		&:first-child {
+			margin-left: 0;
+		}
+	}
+}
+
+.posts {
+	list-style-type: none;
+	padding: 0;
+	>li {
 		margin-bottom: 30px;
 		padding-bottom: 20px;
 		&:not(:last-child) {
-			border-bottom: 1px solid #eee;
+			border-bottom: 1px solid $lightGray;
 		}
 	}
 }
