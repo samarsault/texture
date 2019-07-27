@@ -11,7 +11,10 @@
 
 {%- if site.texture.showPicker -%}
 <div id="texture-picker">
-	<p>Select Texture</p>
+	<div style="display:flex;justify-content: space-between">
+		<p>Select Texture</p>
+		<p><a id="hidePicker" href="#">Hide</a></p>
+	</div>
 	<div class="texture-colors">
 		<div id="black"></div>
 		<div id="blue"></div>	

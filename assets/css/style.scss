@@ -8,7 +8,7 @@
     position: fixed;
     {%- if site.texture.showNav -%}
         top: 100px;
-        right: 55px;
+        right: 5vw;
     {%- else -%}
         top: 20px;
         right: 20px;
