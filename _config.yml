@@ -13,8 +13,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Huayue Lu
+  tagline: Student in MDS UBC
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -22,9 +22,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: huayue lu
+    github:  mg123
+    linkedIn: none
     rss: rss
  
 
