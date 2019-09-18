@@ -14,7 +14,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Huayue Lu
-  tagline: Student in MDS UBC
+  tagline: Student in MDS UBC Vancouver
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
