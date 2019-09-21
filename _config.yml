@@ -4,7 +4,7 @@ email: 534057441@qq.com
 description: > # this means to ignore newlines until "show_exerpts:"
   This is the blog of Huayue Lu. It is a very nice blog. I am making a change in the description.
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /texture
+baseurl: /mglu123_second_blog.github.io
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
