@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What are the situations where you should use Reinforcement Learning?"
+title:  "Understand Reinforcement Learning with a simple example"
 description: An example of reinforcement learning.
 date:   2019-09-24 00:17:00 +0530
 categories: Reinforcement Python
