@@ -53,6 +53,12 @@ h4 {
 	@include fluidType(18px, 20px);
 }
 
+figcaption {
+	font-size: 10pt;
+	line-height: 1.5em;
+	margin-top: -1em;
+}
+
 header {
 	// background-size: cover;
 	padding: 120px 0;
