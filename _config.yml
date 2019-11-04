@@ -6,7 +6,9 @@ description: > # this means to ignore newlines until "show_exerpts:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /texture
+remote_theme: thelehhman/texture
+theme: texture
+baseurl: /blogs
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -15,19 +17,19 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Zain Blogs
+  tagline: Developer Who Shares
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
   showPicker: true
 
   # generate social links in footer
-  social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
+  # social_links:
+  #   twitter: thelehhman
+  #   github:  thelehhman
+  #   linkedIn: in/thelehhman
+  #   rss: rss
  
 
 # If you want to link only specific pages in your header, uncomment
