@@ -10,7 +10,7 @@ sass:
   sass_dir: _sass
 
 permalink: /posts/:title/
-texture: black
+texture:
   title: Matthew Anderson
   tagline: Family man. Ultra runner. Nerdy dude.
   date_format: "%b %-d, %Y"
