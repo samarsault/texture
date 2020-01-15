@@ -7,4 +7,4 @@ I am officially starting a blog. This will be my place for random stuff, most po
 
 ### Who are you?
 
-I live in the Boston, MA suburbs with my wife, kids, and mother.  By day I am a SQL Server DBA. By night I am an Ultra Merathoner.
+I live in the Boston, MA suburbs with my wife, kids, and mother.  By day I am a SQL Server DBA. By night I am an Ultra Marathoner.
