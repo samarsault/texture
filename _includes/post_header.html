@@ -5,6 +5,12 @@
 	<div class="post-date" style="margin-top:20px">
 		Published on {{ page.date | date: date_format }}
 	</div>
+	<div class="post-genre">
+		{% assign type = site.types | where: 'short_name', page.type | first %}
+		{% if type %}
+		   Genre - <a href="{{ type.url }}">{{ type.name }}</a>
+		{% endif %}
+	</div>
 	<ul class="post-tags">
 		{%- for tag in page.categories -%}
 			<li>{{ tag }}</li>

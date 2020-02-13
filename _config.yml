@@ -42,3 +42,7 @@ theme: texture
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+collections:
+  types:
+    output: true

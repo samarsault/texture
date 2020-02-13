@@ -1,0 +1,14 @@
+---
+layout: page
+title: genre
+---
+<h1>Genres</h1>
+
+<ul>
+  {% for type in site.types %}
+    <li>
+      <h2><a href="{{ type.url }}">{{ type.name }}</a></h2>
+      <p>{{ type.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>
