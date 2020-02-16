@@ -2,6 +2,10 @@
 	<h1>{{ site.texture.title }}</h1>
 	<h2>{{ site.texture.tagline }}</h2>
 	<ul class="social">
+		{%- if site.texture.social_links.email -%}
+			<a href="mailto:{{ site.texture.social_links.email }}"><li><i class="fa fa-envelope-square"></i>
+			</li></a>
+		{%- endif -%}
 		{%- if site.texture.social_links.github -%}
 			<a href="https://github.com/{{ site.texture.social_links.github }}"><li><i class="icon-github-circled"></i></li></a>
 		{%- endif -%}
@@ -15,5 +19,6 @@
 			<a href="https://qr.ae/{{ site.texture.social_links.quora }}"><li><i class="fa fa-quora" aria-hidden="true"></i>
 			</li></a>
 		{%- endif -%}
+		
 	</ul>
 </div>
