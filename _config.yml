@@ -1,10 +1,8 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: My Blog
+author: fooMan
+email: fooman.in@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I share here my learning and views.
 show_excerpts: true # set to true to show excerpts on the homepage
 # baseurl: /texture
 
@@ -15,7 +13,7 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Nitin Sharma
+  title: fooMan
   tagline: Programmer. Reader
   date_format: "%b %-d, %Y"
   style: black
@@ -25,7 +23,7 @@ texture:
   # generate social links in footer
   social_links:
     twitter: ntn_nitz
-    quora: TqjxsH
+    # quora: TqjxsH
     # github:  
     # linkedIn: 
     rss: rss
@@ -41,8 +39,16 @@ theme: texture
 
 plugins:
   - jekyll-seo-tag
-#  - jekyll-feed
+  - jekyll-feed
+  - jekyll-sitemap
 
 collections:
   types:
     output: true
+
+# Handling Reading
+encoding            : "utf-8"
+markdown_ext        : "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown            : kramdown
