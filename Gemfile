@@ -4,6 +4,7 @@ source "https://rubygems.org"
 # gemspec
 gem "texture"
 gem 'font-awesome-sass'
+gem "github-pages"
 
 group :jekyll_plugins do
     gem 'jekyll-sitemap'
