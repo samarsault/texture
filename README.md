@@ -1,5 +1,3 @@
-# Page currently under construction, being updated
-
 # texture
 
 A configurable jekyll theme for simply beautiful blogs.
@@ -129,4 +127,3 @@ To add a custom directory to your theme-gem, please edit the regexp in `texture.
 ## License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
