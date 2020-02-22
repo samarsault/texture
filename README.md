@@ -1,3 +1,5 @@
+# Page currently under construction, being updated
+
 # texture
 
 A configurable jekyll theme for simply beautiful blogs.
