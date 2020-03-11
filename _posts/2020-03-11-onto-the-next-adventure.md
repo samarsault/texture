@@ -17,5 +17,4 @@ I have started a new position at New Balance. It is a parallel move for me profe
 I am also excited about the opportunity to work for a company that is fitness/health and wellness focused. I think it will be the best thing for my health so that I can be there for my family as time goes on.
 
 
-Until next time-
-Matt
+Until next time - Matt
