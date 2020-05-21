@@ -105,6 +105,19 @@ texture:
   showNav: true
 ```
 
+**Navigation**
+
+After setting `showNav` to true navigation can be built by adding the following to your `_config.yml`
+
+```yaml
+texture:
+  navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: Resume
+      url: "/resume"
+```
+
 **Layouts**
 
 - Home
