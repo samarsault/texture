@@ -1,14 +1,3 @@
-{%- if site.texture.analytics_id -%}
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.texture.analytics_id }}"></script>
-<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag() { dataLayer.push(arguments); }
-	gtag('js', new Date());
-
-	gtag('config', '{{ site.texture.analytics_id }}');
-</script>
-{%- endif -%}
-
 {%- if site.texture.showPicker -%}
 <div id="texture-picker">
 	<div style="display:flex;justify-content: space-between">
