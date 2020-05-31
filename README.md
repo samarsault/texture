@@ -83,14 +83,6 @@ texture:
   disqus_shortname: games
 ```
 
-**Google Analytics**
-
-It can be enabled by specifying your analytics id under texture in `_config.yml`
-```yaml
-texture:
-  analytics_id: '< YOUR ID >'
-```
-
 **Excerpts**
 
 Excerpts can be enabled by adding the following line to your `_config.yml`
