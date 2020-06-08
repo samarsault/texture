@@ -3,7 +3,7 @@
 @import 'begin';
 @import 'syntax';
 
-$linkColor: #999;
+$linkColor: #444;
 $mobileW: 768px;
 $smallMobileW: 480px;
 $bigScreenW: 1600px;
@@ -27,11 +27,7 @@ body {
 
 a {
 	color: $linkColor;
-	text-decoration: none;
 	transition: border-bottom 0.4s;
-	&:hover {
-		border-bottom: 0.5px solid $linkColor;
-	}
 }
 
 
@@ -103,8 +99,8 @@ header {
 // Basic Container Class
 //
 .container {
+
 	margin:0 150px;
-	max-width: 720px;
 
 	div.highlighter-rouge {
 		right: 150px;
@@ -222,6 +218,20 @@ header {
 	img {
 		margin: 20px 0;
 	}
+}
+
+td, tr {
+	padding: 10px;
+}
+
+tr:nth-child(even) {
+	background-color: #eeeeee;
+}
+
+thead {
+	background-color: #eeeeee;
+	padding: 10px;
+	border-bottom: 1px solid black;
 }
 
 .navbar {
