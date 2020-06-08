@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Postage"
+date:   2020-06-08 00:00:00 +0000
+---
+
+This FAQ section aims to cover topics surrounding the postage of items sold in the community.
+
+## Who should I use to post my items?
+
+Here's a list of couriers that we recommend using, with a list of pros and cons for each:
+
+| Courier | Pros | Cons | Website |
+| --- | --- | --- | --- |
+| Royal Mail (1-3 days, **recommended for smaller items**) | Cheap for smaller items, can drop off at post offices etc. | Can get costly for larger items, no collection service offered | [Link](https://royalmail.com) |
+| ParcelForce (1-2 days) | 40% off student discount via UNiDAYS, can either drop off at post office/depot or have parcel collected | Without discount, is relatively expensive | [With UNiDAYS](https://parcelforce.com/unidays)/[Without](https://parcelforce.com) |
+| UPS (1-2 days, **recommended for larger items**) | Reasonably priced, can drop off at local UPS access point or arrange collection, can have multiple parcels collected at once for relatively low cost | Insurance can be costly depending on the value of the item | [Link](https://www.ups.com/ship/guided) (make sure to book with UPS.com and not UPSToday) |
+| Hermes (1-5 days) | Cheap for smaller items, drop off at Hermes ParcelShop or collection available | UPS/Parcelforce often cheaper for larger items, can be slow and items frequently go missing | [Link](https://www.myhermes.co.uk/) |
+| DPD (1-2 days) | Reasonably priced, fast delivery, excellent tracking | Insurance can be expensive | _Book via Parcel2Go_ |
+| Yodel/CollectPlus (1-2 days) | Prices are OK | Yodel have a reputation for destroying parcels | _Book via Parcel2Go_ |
+
+There are resellers which offer a wide variety of delivery options and couriers such as Parcel2Go, Packlink, and ParcelMonkey, however the insurance is often handled by the reseller and therefore works out more expensive than booking directly.
+
+You should avoid UPSToday and DPDLocal-Online, as they sell labels at a higher cost than buying directly. Instead, book via the courier or reseller directly.
+
+## Should I insure my items?
+
+**Yes.** If any damage or loss occurs in transit, you will be liable to refund the buyer. Therefore, it's in your best interest to make sure you and the buyer are covered against any potential mishaps caused by the delivery company.
+
+## The buyer has paid via PayPal, and is asking me to send to a different address than the one listed on the payment. Should I?
+
+**No!** This is a very common scam, and allows the buyer to raise a claim with PayPal that the item never arrived. PayPal checks the tracking, sees that the item was delivered to the wrong address, and sides with the buyer - this means they get a refund from you and also to keep the item.
+
+If the seller claims to have made a mistake, you should refund the payment via PayPal and ask them to pay again with the correct address.
+
+---
+
+**Disclaimer**: Neither the HardwareSwapUK community nor its moderators can be held liable for any parcel loss, damage or any other problems caused by the information provided on this page. It is based on the personal experiences of the community and is provided you _without warranty_.
