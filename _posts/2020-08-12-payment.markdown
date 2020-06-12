@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Payment"
+date:   2020-06-12 00:00:02 +0000
+---
+
+This FAQ section aims to cover the topic of payment.
+
+# What payment methods should I use?
+
+The following payment methods are most commonly used on HWSUK:
+
+| Payment Method | Pros | Cons |
+| --- | --- | --- |
+| **PayPal Goods and Services** (PP G&S) | **Provides buyer protection** against item not arriving/item not as described. Easy to send payment to another user's PayPal account using only their email address. | PayPal charge **3.4% of the transaction value + 20p** as a fee. They are also introducing a policy wherein they no longer refund fees for returned payments - if a purchase gets refunded, the seller eats the fee. |
+| **Bank transfer** (BT) | Direct transfer to a UK bank account. Requires only the sort code, account number and the name on the account. No fees. | **No buyer protection.** Your bank is very unlikely to help you if you're scammed. |
+| **PayPal Friends and Family** (PP F&F) | Easy to send payment to another user's PayPal account using only their email address. | **No buyer protection.** PayPal will not help you if you are scammed. |
+
+# What payment method should I avoid?
+
+The following payment methods are best avoided as they're usually used to perpetrate scams:
+
+- Cryptocurrencies (Bitcoin, Ethereum etc.)
+- Google Wallet
+- Skrill
+- Western Union/Moneygram
+- Gift cards
+
+---
+
+**Disclaimer**: Neither the HardwareSwapUK community nor its moderators can be held liable for any parcel loss, damage or any other problems caused by the information provided on this page. It is based on the personal experiences of the community and is provided you _without warranty_.
