@@ -11,18 +11,16 @@ baseurl: /
 sass:
   sass_dir: _sass
 
-permalink: /posts/:title/
+permalink: /:title/
 texture:
   title: /r/HardwareSwapUK FAQ
-  tagline: Get answers to all of the simple stuff here.
+  tagline: >
+    Welcome to the HWSUK FAQ site.<br /><br />
+    Here you can get answers to all of the simple stuff such as postage tips, sales etiquette and more. The links below will provide all the information we have collected from community sources to give you an easier format to read and learn some of the more useful information we can provide.
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
   showPicker: false
-
-  # generate social links in footer
-  social_links:
-    github:  hwsuk/faq
  
 
 # If you want to link only specific pages in your header, uncomment
