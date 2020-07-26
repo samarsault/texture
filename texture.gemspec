@@ -2,9 +2,9 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "texture"
-  spec.version       = "0.4"
+  spec.version       = "0.5"
   spec.authors       = ["Samarjeet"]
-  spec.email         = ["thelehhman@gmail.com"]
+  spec.email         = ["samarsault@gmail.com"]
 
   spec.summary       = "A configurable jekyll theme for simply beautiful blogs."
   spec.homepage      = "https://github.com/thelehhman/texture"
