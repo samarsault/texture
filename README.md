@@ -22,6 +22,8 @@ will start the server on port 4000, go to http://localhost:4000 to see the local
 
 The server will watch for changes to posts, but you may need to restart with `^C` if you modify theme-related files.
 
+Content can be found in the `_posts` directory - edit here if you wish to add new posts or modify the content of existing posts.
+
 ## Contributing
 
 When raising a pull request, please make sure to use a sensible branch name and provide a reasonable description, highlighting at a high level what you hope to achieve with the change.
