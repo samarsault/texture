@@ -30,7 +30,7 @@ When raising a pull request, please make sure to use a sensible branch name and 
 
 Once your pull request has been raised, the Netlify hook will create a preview deployment for you, which you can see in the pull request actions. Please verify that this looks as you expect before merging.
 
-After merging a pull request, it is automatically deployed to the Netlify production site within a couple of minutes, and will be viewable [on the production site.] (https://faq.hardwareswap.uk)
+After merging a pull request, it is automatically deployed to the Netlify production site within a couple of minutes, and will be viewable [on the production site.](https://faq.hardwareswap.uk)
 
 ## Queries
 
