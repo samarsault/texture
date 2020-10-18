@@ -2,7 +2,7 @@
 <div class="navbar">
 	<ul>
 		{% for link in site.texture.navigation %}
-		<a href="{{ link.url }}"><li {% if link.url == page.url %}class="active"{% endif %} >{{ link.title }}</li></a>
+		<a href="{{ link.url | prepend:site.baseurl }}"><li {% if link.url == page.url %}class="active"{% endif %} >{{ link.title }}</li></a>
 		{% endfor %}
 	</ul>
 </div>
