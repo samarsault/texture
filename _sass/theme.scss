@@ -16,6 +16,10 @@ $lightGray: #eee;
 	box-sizing: border-box;
 }
 
+html {
+  overflow-y: scroll;
+}
+
 body {
 	font-family: 'Nunito Sans', sans-serif;
 	@include fluidType(16px, 19px);
