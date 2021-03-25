@@ -10,7 +10,7 @@ This post aims to cover trade listings, both in the subreddit and in Discord `#b
 
 All buying posts should have a title beginning with `[BG]`.
 
-- Think of a brief title for the item you want to buy. For example, "Corsair SF600 PSU". Use the `[W]` tag in your title to denote this.
+- Think of a brief title for the item you want to buy. For example, "Corsair SF600 PSU". Use the `[H]` tag in your title to denote this.
 - Think about your budget and what payment methods are available to you. Use the `[W]` tag in your title to denote this.
     - As an example, your title should look like this: `[BG] [W] Corsair SF600 PSU [H] £100 PayPal`
 - If this is a Reddit post, in your post body, provide more details about what it is you want to buy if necessary.
