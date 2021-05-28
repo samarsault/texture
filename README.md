@@ -2,7 +2,7 @@
 
 A configurable jekyll theme for simply beautiful blogs.
 
-**Demo**: [thelehhman.com/texture](https://thelehhman.com/texture)
+**Demo**: [samarsault.com/texture](https://samarsault.com/texture)
 
 ![texture theme preview](/screen1.png)
 
@@ -11,7 +11,7 @@ A configurable jekyll theme for simply beautiful blogs.
 
 Add this line to your site's `_config.yml`:
 ```yaml
-remote_theme: thelehhman/texture
+remote_theme: samarsault/texture
 ```
 
 **NOTE: If you are forking this repo, remove `base_url: /texture` in the `_config.yml` which is required to load the required website assets**
@@ -126,7 +126,7 @@ texture:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/thelehhman/texture. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/samarsault/texture. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## Development
 
@@ -147,4 +147,4 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 ## More Themes
-[plainwhite](https://github.com/thelehhman/plainwhite-jekyll)
+[plainwhite](https://github.com/samarsault/plainwhite-jekyll)
