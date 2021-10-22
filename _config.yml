@@ -19,11 +19,11 @@ texture:
   showPicker: false
 
   # generate social links in footer
-  social_links:
-    twitter: matholamew
-    github: matholamew
-    linkedIn: in/matthewandersonj
-    strava: athletes/matholamew
+  #social_links:
+  #  twitter: matholamew
+  #  github: matholamew
+  #  linkedIn: in/matthewandersonj
+  #  strava: athletes/matholamew
  
 
 # If you want to link only specific pages in your header, uncomment
