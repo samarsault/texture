@@ -1,12 +1,10 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
+title: Minuk's Blog
+author: Kim Minuk
+email: minuk3508@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /texture
+# baseurl: /texture
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -15,20 +13,19 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: Minuk's Blog
+  tagline: FRONT-END Developer
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: unusing
+    github: minuk3508
+    linkedIn: unusing
     rss: rss
- 
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
