@@ -20,12 +20,12 @@ main {
 //
 // Fluid Typography
 //
-@mixin fluidType($min, $max ) {
+@mixin fluidType($min, $max) {
 	font-size: $min;
 
 	@media screen and (min-width: $minSupportedWidth) {
 		// 960 = 1280-320
-		font-size: calc(#{$min} + #{($max - $min)/1px} * ((100vw - 320px) / 960));
+		font-size: calc(#{$min} + ((#{$max - $min}) / 1px) * ((100vw - 320px) / 960));
 	}
 
 	@media screen and (min-width: $maxSupportedWidth) {
