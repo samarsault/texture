@@ -21,6 +21,22 @@ Your timestamp must contain:
 
 **PayPal Goods and Services is the only payment method we allow for electronic payments for posters with less than 10 confirmed trades. If you have 10+ trades, you can use alternative payment methods, however we recommend using Goods and Services. Please exercise due diligence if paying by another method as you will be unprotected.**
 
+## General posting rules
+
+There is a cooldown rule for trading posts in the Discord and subreddit:
+
+- You may create one trading post per trade type (buying, selling, swapping) per 24 hours.
+- You may not create a new trading post relating to items you have already listed in the past 72 hours.
+    - This rule applies **even if you delete your old posts to attempt to evade the cooldown.**
+ 
+As a real-world example, it is acceptable to create one **buying** post for all of the items you want to buy, as well as one **selling** post for everything you wish to sell, in the same 24-hour window. 
+
+If you later decide you want to sell another item, you may create another selling post the next day relating **only** to any items you didn't list in your previous post.
+
+If your original post doesn't gain the traction you'd hoped for, you may create a new post relating to the same items you listed before after 3 days (72 hours) of the original post date. You are welcome to edit your original post prior to this cooldown expiring, for example if you wish to adjust the pricing of your items.
+
+The cooldown **does not apply** if your previous post was removed by the mod team for breaking a rule, or after prior consultation with the mod team. In this instance, you may create a new post immediately, ensuring your listing otherwise complies with the rules.
+
 ## How do I make a buying post?
 
 - All buying posts must contain `[BG]` at the start of the title.
