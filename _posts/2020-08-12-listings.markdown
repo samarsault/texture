@@ -9,20 +9,22 @@ This page aims to educate users on the listing prefixes, creating a listing on e
 HardwareSwapUK uses the following prefixes: `[BG]`, `[SG]` and `[SP]`, these respectively stand for Buying, Selling and Swapping. 
 Please note that you may see other users also including `[H]` and `[W]` which mean Have and Want.
 
-The subreddit requires a timestamped picture of the items that you're selling or swapping Please upload to [Imgur](https://imgur.com/upload) or another image hosting website.
-The discord does not need timestamps, however we advise users to get pictures in DM's.
+The subreddit requires a timestamped picture of the items that you're selling or swapping. Please upload to [Imgur](https://imgur.com/upload) or another image hosting website.
+
+The Discord does not need timestamps, however we advise users to get pictures in DM's.
 
 Your timestamp must contain:
 
-The current date **DD/MM/YYYY** and your reddit username written out on paper.
-All the items you're selling. If the item is used, the photo must be of the item. If the item is BNIB, you must clearly show that the box has not been opened (i.e, show the seal). Timestamps must be dated within 5 days of the day of the post.
+- The current date **DD/MM/YYYY** and your reddit username written out on paper.
+- All of the items you're selling. If the item is used, the photo must be of the item. If the item is BNIB, you must clearly show that the box has not been opened (i.e, show the seal).
+    - Timestamps must be dated within 5 days of the day of the post.
 
-**PayPal Goods and Services is the only payment method we allow for electronic payments for posters with less than 10 confirmed trades. If you have 10+ trades, you can use alternative payment methods, however we recommend Goods and services, please consider due diligence if paying by another method as you will be unprotected.**
+**PayPal Goods and Services is the only payment method we allow for electronic payments for posters with less than 10 confirmed trades. If you have 10+ trades, you can use alternative payment methods, however we recommend using Goods and Services. Please exercise due diligence if paying by another method as you will be unprotected.**
 
 ## How do I make a buying post?
 
-All buying posts must contain `[BG]` at the start of the title.
-- Think of a title for the item you're wanting to buy, usually the name of the item is a good choice, but if you have an assortment of parts you're wanting can use include all of them in the title and seperate using |.
+- All buying posts must contain `[BG]` at the start of the title.
+- Think of a title for the item you're wanting to buy, usually the name of the item is a good choice, but if you want a variety of items you can include all of them in the title and separate using \|.
 - Do market research and check for how much the item you're wanting to buy goes for at MSRP, and also on second hand markets such as eBay (check the sold listings and condition).
     - An example of this would be **[BG] RTX 3080 [H] £649**
 
@@ -30,8 +32,8 @@ To make things easier, we have created a [Buying Template Post](http://tinyurl.c
 
 ## How do I make a selling post?
 
-All selling posts must contain `[SG]` at the start of the title.
-- Think of a title for the item you're wanting to sell, the actual name of the item works well here. If you have multiple items you're wanting to sell you can either list them in the title, seperating them using | or you can say various PC parts and create a list/table in the body of your post.
+- All selling posts must contain `[SG]` at the start of the title.
+- Think of a title for the item you're wanting to sell, the actual name of the item works well here. If you have multiple items you're wanting to sell you can either list them in the title, separating them using \|, or you can say various PC parts and create a list/table in the body of your post.
 - Do market research and check how much the item sells for second hand, the advanced search on eBay is helpful for this as you can specify condition and search for sold items.
     - An example of this would be **[SG] RTX 3080 [W] £649**
  
@@ -41,12 +43,13 @@ To make things easier, we have created a [Selling Template Post](http://tinyurl.
 
 ## What about swapping posts?
 
-- Swapping is quite rare on HardwareSwapUK, as both parties will need to trust eachother, or potentially use someone with credability as escrow.
+- Swapping is quite rare on HardwareSwapUK, as both parties will need to trust each other, or potentially use someone with credibility as escrow.
 - Swapping posts will need the prefix `[SP]`.
-Usually there will be a monetary price difference in the items you're swapping so it's not uncommon to be needing to send/recieve cash ontop of the swap.
+- 
+Usually there will be a monetary price difference in the items you're swapping so it's not uncommon to be needing to send/recieve cash on top of the swap.
 
-A Swap post could be formatted like such **[SP] [H] Ryzen 7 5800x3d + £250 [W] Ryzen 7 7800x3d**
-- Again, you must include a timestamp of the item which is in your possession.
+A Swap post could be formatted like such **[SP] [H] Ryzen 7 5800x3d + £250 [W] Ryzen 7 7800x3d** - again, you must include a timestamp of the item which is in your possession.
+
 To make things easier, we have created a [Swapping Template Post](https://tinyurl.com/ihferuhef)
 
 *You must say what condition the item(s) you're swapping is(are) in. For some items which have moving parts such as CPU Coolers (Air and Liquid), Graphic Cards, or anything else you must give the history of the item if it has been highly utilised during its lifetime. I.E Crypto mining, simulation or graphics rendering.*
