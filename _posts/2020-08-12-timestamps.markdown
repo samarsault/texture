@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Timestamps"
-date:   2023-09-29 16:05:03 +0000
+date:   2023-09-29 15:05:03 +0000
 ---
 
 This FAQ section aims to cover timestamps, why we use them and why they're important.
